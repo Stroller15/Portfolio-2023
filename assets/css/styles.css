@@ -420,7 +420,7 @@ img {
   line-height: 1.75rem;
 }
 .my-video {
-  height: 220px;
+  height: 250px;
   width: 250px;
   border-radius: 1rem;
   border: 1px solid var(--first-colour-lighter);
